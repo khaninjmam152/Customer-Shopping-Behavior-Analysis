@@ -4,6 +4,10 @@ An end-to-end Data Analytics project that explores customer shopping patterns an
 
 ## 📌 Project Overview
 
+## 📊 Power BI Dashboard Preview
+
+![Customer Dashboard](customer_dashboard.png)
+
 The project focuses on analyzing customer shopping behavior to identify purchasing trends, revenue patterns, customer preferences, product performance, and discount usage.
 
 The objective is to convert raw customer data into meaningful business insights that support data-driven decision-making.
